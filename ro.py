@@ -1,9 +1,7 @@
 import random
 Lo=[1,2,3]
 nli=[]
-c1=0
-c2=0
-c3=0
+c1=0; c2=0; c3=0
 for _ in range(30):
     if c1>=10:
         Lo.remove(1)
